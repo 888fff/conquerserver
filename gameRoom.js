@@ -106,9 +106,10 @@ module.exports = GameRoom = cls.Class.extend({
     },
 
     checkHasAnyOnlinePlayer: function () {
-        return _.findIndex(this.players, function (player) {
-            player.connect_fsm.state === 'online';
-        }) !== -1;
+        let idx = _.findIndex(this.players, function (player) {
+            return player.connect_fsm.state === 'online';
+        });
+        return idx !== -1;
     },
 
     try_to_start_game: function () {
