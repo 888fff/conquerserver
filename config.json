@@ -1,0 +1,11 @@
+{
+  "server_id" : 1,
+  "server_name" : "WWH的Conquer服务器",
+  "port": 8000,
+  "debug_level": "debug",
+  "nb_players_per_game": 4,
+  "nb_game_rooms": 10,
+  "nb_lobby_players": 40,
+  "gm_token" : "ABCD#1234",
+  "room_type" : 0
+}

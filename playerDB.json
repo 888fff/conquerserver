@@ -1,0 +1,30 @@
+{
+  "wwh":{
+    "nickname" : "温伟航",
+    "token" : "conquer"
+  },
+  "xly":{
+    "nickname" : "熊林源",
+    "token" : "conquer"
+  },
+  "gg":{
+    "nickname" : "果果",
+    "token" : "conquer"
+  },
+  "sc":{
+    "nickname" : "苏超",
+    "token" : "conquer"
+  },
+  "zf":{
+    "nickname" : "张凡",
+    "token" : "conquer"
+  },
+  "user":{
+    "nickname" : "无名小卒",
+    "token" : "conquer"
+  },
+  "master":{
+    "nickname" : "落魄领主",
+    "token" : "conquer"
+  }
+}
